@@ -35,3 +35,4 @@ class SmartTv:
     def mudar_canal(self,canal):
         if  self.ligada and 1 <= canal <=201:
             self.canal = canal
+            
