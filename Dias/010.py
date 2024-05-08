@@ -15,9 +15,6 @@ def encryption(s):
             output+=s[j]
         output+=" "
     return output
-
-
-
 # Exemplo de uso:
 s = "ifmanwasmeanttostayonthegroundgodwouldhavegivenusroots"
 result = encryption(s)
