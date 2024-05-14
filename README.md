@@ -5,9 +5,13 @@ Este repositório destina-se aos códigos gerados em prol do desafio #100DaysOfC
 - Utilizarei apenas recursos presentes nas documentações das linguagens de programação.
 - Estará livre o uso de qualquer linguagem para a execução dos desafios.
 - Os desafios serão extraídos dos seguintes sites:
+  
   - HackerRank  
   - LeetCode  
   - Exercism  
-  - CodeSignal  
+
+Linguagens utilizadas até o momento:
+- Python
+- Jscript
 
 As regras e os sites de onde serão retirados os exercícios podem ser modificados a qualquer momento.
