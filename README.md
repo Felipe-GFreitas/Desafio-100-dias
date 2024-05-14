@@ -10,4 +10,8 @@ Este repositório destina-se aos códigos gerados em prol do desafio #100DaysOfC
   - Exercism  
   - CodeSignal  
 
+Linguagens utilizadas até o momento:
+- Python
+- Jscript
+
 As regras e os sites de onde serão retirados os exercícios podem ser modificados a qualquer momento.
